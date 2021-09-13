@@ -18,7 +18,7 @@
         <module>labx-04-sca-sentinel-apollo-provider</module>
         <module>labx-04-sca-sentinel-file-provider</module>
 
-        <module>labx-04-sca-sentinel-feign-consumer</module>
+        <module>feign-consumer</module>
         <module>labx-04-sca-sentinel-resttemplate-consumer</module>
 
         <module>labx-04-sca-sentinel-actuator-provider</module>
